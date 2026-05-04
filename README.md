@@ -81,7 +81,7 @@ IT3040_Assignment_1/
 
 ##  Student Information
 
-- Student ID: IT
+- Student ID: IT23818866
 - Module: IT3040  
 - Assignment: Assignment 1 (Option 1)  
 
@@ -101,5 +101,9 @@ IT3040_Assignment_1/
 - All required files are included  
 - Project is fully runnable using requirements.txt  
 
----#   I T 2 3 8 1 8 8 6 6 _ I T P  
+---#   I T 2 3 8 1 8 8 6 6 _ I T P 
  
+ 
+ run test command-
+
+ python test_automation.py --excel "C:\Users\shena\Desktop\IT23818866\Test cases.xlsx" --url "https://www.pixelssuite.com/chat-translator" --wait-ms 5000 --type-delay-ms 80 --slow-mo-ms 200 --save-every 1 --keep-open
